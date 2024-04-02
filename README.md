@@ -44,5 +44,7 @@ I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ####  &nbsp; My Recent Article about [Optimizing Performance with Memory Caching in Angular Applications](https://medium.com/@niteshdaga000/optimizing-performance-with-memory-caching-in-angular-applications-dad3efeb1f99)
 
 
-####  &nbsp; My Career Roadmap, Built using [Roadmap.sh](https://roadmap.sh)
-<iframe src="https://roadmap.sh/r/embed?id=660958ffda1671f986eb1eaf" width="100%" height="500px" frameBorder="0"></iframe>
+####  &nbsp; My Career Roadmap, Built using Roadmap.sh
+
+![Career Roadmap](https://roadmap.sh/r/embed?id=660958ffda1671f986eb1eaf)
+
