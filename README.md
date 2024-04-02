@@ -46,5 +46,6 @@ I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ####  &nbsp; My Career Roadmap, Built using Roadmap.sh
 
-![Career Roadmap](https://roadmap.sh/r/embed?id=660958ffda1671f986eb1eaf)
+[![Career Roadmap](https://img.shields.io/badge/View%20Career%20Roadmap-Click%20Here-blue?logo=roadmap.sh)](https://roadmap.sh/r/embed?id=660958ffda1671f986eb1eaf)
+
 
